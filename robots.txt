@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxesiiza.github.io/EiG/sitemap_index.txt
+Sitemap: https://oxesiiza.github.io/JCl/sitemap_index.txt
+Sitemap: https://oxesiiza.github.io/qjJ/sitemap_index.txt
+Sitemap: https://oxesiiza.github.io/wsB/sitemap_index.txt
